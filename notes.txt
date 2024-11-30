@@ -1,0 +1,14 @@
+Things to do:
+Initialize board -Done
+Function for manually placing ships -Done
+Function for automatically placing ships -Done
+Function to randomly decide who goes first -Done
+Function for firing at a coordinate and displaying hit or miss on coordinate -Done
+Function to detect if a ship has sunk and replace the hit markers with the character of the ship
+Function and file to record data of the game.
+Funciton to detect who wins
+link to summaryweek1:
+https://1drv.ms/w/s!AjzeecDE_H6rmTa5Y8_pjAznUjfF?e=1RCLVs
+Links to summaryweek2:
+https://docs.google.com/document/d/1rOBpdPzf8nnapdecs7gd73l7HS7NsBYy9LTJNL3ngcg/edit?usp=sharing
+https://docs.google.com/document/d/1A0ukWIbJ-xpJ1IHQB6GGSUEiNmCBEG5XXM0gBhPpK8k/edit?usp=sharing
